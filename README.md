@@ -1,4 +1,4 @@
-### Heart-Failure-Prediction
+## Heart-Failure-Prediction
 
 Cardiovascular diseases (CVDs) are the number 1 cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worlwide.
 
@@ -22,3 +22,5 @@ Continuous Features:
  Target Class:
   - Death Event (If the patient died during follow-up period)
  
+### References
+Chicco, D., Jurman, G. Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Med Inform Decis Mak 20, 16 (2020). https://doi.org/10.1186/s12911-020-1023-5
